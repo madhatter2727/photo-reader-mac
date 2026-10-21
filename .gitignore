@@ -1,0 +1,16 @@
+.build/
+*.app/
+DerivedData/
+models/
+*.gguf
+*.safetensors
+*.onnx
+*.bin
+*.log
+.grok-build.log
+.env
+.env.*
+.DS_Store
+__pycache__/
+*.old
+samples/real-screenshot.png
